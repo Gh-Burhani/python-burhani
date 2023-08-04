@@ -6,4 +6,4 @@ def is_even(check):
     else:
         return False
 
-print(is_even)
+print(is_even(25))

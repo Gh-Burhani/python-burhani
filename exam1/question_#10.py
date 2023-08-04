@@ -5,4 +5,4 @@ def print_message(massege, repeat_count):
 massege = input("Enter message: ")
 repeat_count = input("Enter count: ")
 
-print_message(12)
+print_message(massege, int(repeat_count))

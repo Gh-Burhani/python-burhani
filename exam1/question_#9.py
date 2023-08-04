@@ -4,3 +4,5 @@ def is_vowel(letters):
         return True
     else:
         return False
+
+print(is_vowel("b"))
